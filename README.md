@@ -29,17 +29,3 @@ HappyMod Pro is completely fake. There is
 only one official HappyMod build and it is 
 completely free. Always download from the 
 verified source only.
-
-## Resources
-
-Full installation guide, safety documentation, 
-and troubleshooting guides available at:
-
-[happymoddapk.net](https://happymoddapk.net)
-
-Specific guides:
-
-- [HappyMod Install Guide](https://happymoddapk.net/how-to-install-happymod/)
-- [Is HappyMod Safe](https://happymoddapk.net/is-happymod-safe/)
-- [HappyMod Not Working](https://happymoddapk.net/happymod-not-working/)
-- [HappyMod for PC](https://happymoddapk.net/happymod-for-pc/)
